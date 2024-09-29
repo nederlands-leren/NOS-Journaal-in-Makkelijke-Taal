@@ -172,5 +172,11 @@ latex_*/
 
 what_to_do.txt
 
+latex_creator.ipynb
 main.ipynb 
 note.ipynb
+*.ipynb
+*.py
+
+*.json
+*.pickle
